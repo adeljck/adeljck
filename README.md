@@ -2,12 +2,12 @@
 
 <main style="float: left;">
   <p>My name is adeljck.</p>
-  <p>If you want to get more information about me, you can visit <a href="https://gdbshit.io" target="_blank">https://gdbshit.io</a> .</p>
+  <p>A Poor And Pitiful Security Researcher lol.</p>
 </main>
 
 ![GitHub followers](https://img.shields.io/github/followers/adeljck?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/adeljck?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/adeljck?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/r000000000000t?style=social)
 
 <table align="center">
 <tr>
