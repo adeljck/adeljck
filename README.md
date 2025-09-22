@@ -2,7 +2,7 @@
 
 <main style="float: left;">
   <p>It's adeljck's Github.</p>
-  <p>微信公众号：Xsafe</p>
+  <p>Wechat Offical Account：Xsafe</p>
   <p>My E-Mail：whoisad@protonmail.com</p>
 </main>
 
@@ -23,10 +23,4 @@
     <center><img align='right' src="./assets/wx.png" width="300"></center>
     </td>
     </tr>
-</table>
-
-<table>
-  <tr>
-    <td>🥰恭喜您成为第<img src="https://profile-counter.glitch.me/adeljck/count.svg" alt="" />位访客，感谢您的关注和支持~😍</td>
-  </tr>
 </table>
